@@ -1,0 +1,17 @@
+[project]
+name = "ragepes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "frontmatter>=3.0.8",
+    "html-to-markdown>=2.19.2",
+    "markdown>=3.10",
+    "natsort>=8.4.0",
+    "pip>=25.3",
+    "pycryptodome>=3.23.0",
+    "streamlit>=1.52.2",
+    "streamlit-option-menu>=0.4.0",
+]
